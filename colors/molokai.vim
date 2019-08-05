@@ -27,12 +27,12 @@ else
 endif
 
 
-hi Boolean         guifg=#9B6BFF
+hi Boolean         guifg=#9D6EFF
 hi Character       guifg=#E6DB74
-hi Number          guifg=#9B6BFF
+hi Number          guifg=#9D6EFF
 hi String          guifg=#E6DB74
 hi Conditional     guifg=#F92672               gui=bold
-hi Constant        guifg=#9B6BFF               gui=bold
+hi Constant        guifg=#9D6EFF               gui=bold
 hi Cursor          guifg=#000000 guibg=#F8F8F0
 hi iCursor         guifg=#000000 guibg=#F8F8F0
 hi Debug           guifg=#BCA3A3               gui=bold
@@ -47,7 +47,7 @@ hi Directory       guifg=#A6E22E               gui=bold
 hi Error           guifg=#E6DB74 guibg=#1E0010
 hi ErrorMsg        guifg=#F92672 guibg=#232526 gui=bold
 hi Exception       guifg=#A6E22E               gui=bold
-hi Float           guifg=#9B6BFF
+hi Float           guifg=#9D6EFF
 hi FoldColumn      guifg=#465457 guibg=#000000
 hi Folded          guifg=#465457 guibg=#000000
 hi Function        guifg=#A6E22E

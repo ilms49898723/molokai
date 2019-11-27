@@ -131,6 +131,8 @@ else
    hi SpecialKey      guifg=#465457
 end
 
+hi AnzuSearchPattern  guifg=#FD971F               gui=bold
+
 "
 " Support for 256-color terminal
 "

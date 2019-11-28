@@ -26,6 +26,7 @@ else
     let s:molokai_original = 0
 endif
 
+hi AnzuPatterns    guifg=#FD971F               gui=bold
 
 hi Boolean         guifg=#9D6EFF
 hi Character       guifg=#E6DB74
@@ -130,8 +131,6 @@ else
    hi NonText         guifg=#465457
    hi SpecialKey      guifg=#465457
 end
-
-hi AnzuSearchPattern  guifg=#FD971F               gui=bold
 
 "
 " Support for 256-color terminal
